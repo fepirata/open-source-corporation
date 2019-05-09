@@ -2,7 +2,7 @@
 
 ## What Is This?
 
-This is the [Countable Web Productions Inc.](http://countable.ca) *operations manual*.
+This is the [Countable Web Productions Inc.](http://countable.ca) *operations manual*. It's a living record of hour our company works, and is constantly evolving as we learn. Our whole team proposes amendments in order to constantly improve the material here.
 
 Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
@@ -18,21 +18,42 @@ Like for an open source software project, our processes and other information as
 *Second, why is it open source?* To promote [transparency](./TRANSPARENCY.md).
 
 ## Scope
+
 This repo will contain:
   * Business processes and knowledge base.
   * The Articles of Incorporation and other general corporate documents. Countable is a [CCPC](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.html), but it's possible some of these documents may be useful for other organization structures.
   * Document templates used by the company for accounting and legal.
   * We will *not* publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
-## Vision Statement
-Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology. Learn more about Countable's [vision](./VISION.md) for an exceptional web technology team.
+## What is Countable?
 
-## Mission Statement
-Empower creation on the web. [Read the mission](./MISSION.md).
+Countable is a Web Technology Solutions Development Firm. We build things with web technology. There are tens of thousands of companies that do this. What makes us different?
+  * We are obsessed with feedback. A remote team, feedback loops are harder to establish and even more critical to our ability to deliver great work. At Countable, feedback is sacred, and everyone is encouraged to maximize thoughtful feedback to one another as much as possible. We want our clients to see our work as we're doing it and be as visible as possible.
+  * We're built to address the 3 main failure modes of software projects (over budget, overdue, and incorrect requirements). We do this by prototying, the art of simulating an experience with the minimum effort.
+  * We work hard to be transparent, interactive, and have fun.
 
-## Getting Started
-If you're new, start here!
+[Read about the purpose of Countable](./PURPOSE.md).
 
+## Who is Countable?
+
+We're very selective in order to embody the above values. This starts with hiring, all the way to the kinds of partners we seek out. In the end, we want to bring together people to have a big impact by improving all the industries we engage with, through better technology designed by the end users themselves. Those users are the ones who understand their problems and need to given a voice to control the technology they depend on. Now that's a feedback loop!
+
+### Recruiting
+Finding the right people is one of our biggest challenges, so we need every advantage we can find in this way.
+  * [General Posting](./peopleops/recruiting/README.md)
+  * [Are You A Good Fit For Countable?](./peopleops/recruiting/FIT.md)
+
+### Marketing
+Helps us find the best partners and team members who share our passion.
+  * [Value Proposition](./marketing/VALUE_PROP.md)
+  * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
+  * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
+  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
+  * [2018 Search Engine Optimization (SEO) Checklist](./marketing/2018_SEO_CHECKLIST.md)
+  * [Usability](./marketing/USABILITY.md)
+
+### Getting Started
+If you're a new Countable team member, start here!
   * [Onboarding](./peopleops/getting_started/ONBOARDING.md)
   * [Your Contract](./peopleops/getting_started/ASSOCIATE_AGREEMENT.md)
   * [Diversity and Inclusion](./peopleops/getting_started/DIVERSITY_AND_INCLUSION.md)
@@ -45,12 +66,9 @@ If you're new, start here!
   * [Trello](./peopleops/getting_started/TRELLO.md)
   * [Client Data Protection](./peopleops/getting_started/CLIENT_DATA_PROTECTION.md)
 
-## Recruiting
-The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
-  * [General Posting](./peopleops/recruiting/README.md)
-  * [Are You A Good Fit For Countable?](./peopleops/recruiting/FIT.md)
-
-## How Do We Work?
+If you're a new client, start here!
+  * [Scrum](./peopleops/getting_started/SCRUM.md)
+  * [Trello](./peopleops/getting_started/TRELLO.md)
 
 ### Engineering
 The purpose of this section is to standardize key (not all) product/engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences.
@@ -68,25 +86,15 @@ The purpose of this section is to standardize key (not all) product/engineering 
   * [Jenkins](./product/engineering/JENKINS.md)
   * [Stack Choices](./product/engineering/STACK_CHOICES.md)
   
-### Marketing
-Helps us find the best clients and staff who share our passion.
-  * [Value Proposition](./marketing/VALUE_PROP.md)
-  * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
-  * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
-  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
-  * [2018 Search Engine Optimization (SEO) Checklist](./marketing/2018_SEO_CHECKLIST.md)
-  * [Usability](./marketing/USABILITY.md)
+
   
 ### Consulting
 How to provide the best results for clients.
   * [Priorities](./admin/consulting/PRIORITIES.md)
   * [Methodology](./admin/consulting/METHODOLOGY.md)
   * [Communicating with clients](./admin/consulting/COMMUNICATING_WITH_CLIENTS.md)
-    
-### Product
 
-## Administrative Matters
-This section involves the bureaucratic processes the company carry out.
+## Operations
   * [Meetings](./admin/MEETINGS.md)    
   * [Processes](./admin/PROCESSES.md)
   * [Storage](./admin/STORAGE.md)

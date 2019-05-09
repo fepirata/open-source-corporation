@@ -11,9 +11,11 @@ Checklist of key steps when starting a new project.
 
 # Required Steps for Project Discovery
   
-  * What is the project purpose? What problem does it solve, for whom? (value hypothesis)
+  * What problem does this project solve, for whom? (value hypothesis)
+  * What is the most important benefit you expect this project to provide?
   * What is the growth hypothesis? How will the project virally grow (by referrals) to reach more people?
   * What does success look like? Provide as much detail as possible about that vision.
+  * How will success be measured?
   * Identify the target market (persona). ideally, find a real person who embodies the persona.
   * What problem are you solving for the persona? Why does that problem matter to them? What words do they use to describe the problem?
   * What is your Persona currently doing about this problem (prior to your solution)?
